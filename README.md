@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @BoleNevolja
+- 👀 I’m interested in Programing, Chemistry, Oceanliners, History...
+- 📫 How to reach me bosko.petkovic.4@gmail.com
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love Titanic
