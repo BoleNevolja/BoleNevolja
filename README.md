@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @BoleNevolja
-- 👀 I’m interested in Running, Trail, Military, Politics.
-- 📫 How to reach me bosko.petkovic.4@gmail.com
+Хеј, ја сам Бошко Петковић
+Боли вас курац за више информација
+
