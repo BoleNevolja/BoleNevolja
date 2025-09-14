@@ -2,4 +2,4 @@
 🏃 Track athlete <br>
 🌃 Nightclub enjoyer <br>
 💻 Intern @ TempusAnalytics (since June 2025) <br>
-🚗 Currently developing auto-uvoz.de(WEBSITE NOT LIVE)
+🚗 Currently developing autouvoz.de(WEBSITE NOT LIVE)
