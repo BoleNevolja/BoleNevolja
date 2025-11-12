@@ -2,4 +2,5 @@
 🏃 Track athlete <br>
 🌃 Nightclub enjoyer <br>
 💻 Intern @ TempusAnalytics (since June 2025) <br>
-🚗 Currently developing autouvoz.de
+⚛️ React <br>
+🚗 Currently developing HiddenLayers.app
