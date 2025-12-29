@@ -2,4 +2,4 @@
 🏃 Track athlete <br>
 💻 Intern @ TempusAnalytics (since June 2025) <br>
 ⚛️ React ｜ 🐍 Python <br>
-🚗AutoUvoz.de ｜ 🎭HiddenLayers
+🚗AutoUvoz.de ｜ 🧠MojaLola
