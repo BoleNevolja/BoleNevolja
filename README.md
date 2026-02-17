@@ -1,5 +1,4 @@
-👋 18 y/o from Bosnia & Herzegovina <br>
-🏃 Track athlete <br>
-💻 Intern @ TempusAnalytics (since June 2025) <br>
+👋 19 y/o from Bosnia & Herzegovina <br>
+🏃 Track athlete - 1500m/10k/HM <br>
 ⚛️ React ｜ 🐍 Python <br>
 🚗AutoUvoz.de ｜ 🧠MojaLola
