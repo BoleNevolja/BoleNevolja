@@ -1,4 +1,4 @@
 👋 19 y/o from Bosnia & Herzegovina <br>
-🏃 Track athlete - 1500m/10k/HM <br>
-⚛️ React ｜ 🐍 Python <br>
+🏃 Track athlete <br>
+⚛️ React ｜ ⚡Next.js ｜ 🐍 Python <br>
 🚗AutoUvoz.de ｜ 🧠MojaLola
